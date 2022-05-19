@@ -44,6 +44,8 @@ Capitulo 1-2
 
 # Ejercicios Capitulo 1 
 
+SECCION 1-1
+
 2. La unidad de corriente es
 
 ![imagen](https://user-images.githubusercontent.com/105812540/169190934-8d3f41ad-21da-4742-9d2e-42122eeba4ed.png)
@@ -59,6 +61,27 @@ Capitulo 1-2
 8. La cantidad 56 X 10^3 es lo mismo que
 
 ![imagen](https://user-images.githubusercontent.com/105812540/169191296-c5cfce15-3088-4604-b1b2-ee6709476f06.png)
+
+10. Diez miliamperes pueden ser expresados como
+
+![imagen](https://user-images.githubusercontent.com/105812540/169191805-0279623b-67b5-4d37-b1b2-c9f1cb0432b9.png)
+
+12. Veinte millones de ohms pueden ser expresados como
+
+![imagen](https://user-images.githubusercontent.com/105812540/169191872-1481704c-250b-43e4-9272-a32d57eb797c.png)
+
+SECCION 1-2
+
+2. Exprese cada número fraccionario en notación científica
+
+![imagen](https://user-images.githubusercontent.com/105812540/169192807-063addde-1753-4c4a-a4c9-2d318c2af1fb.png)
+
+4. Exprese cada uno de los números siguientes en notación científica
+
+![imagen](https://user-images.githubusercontent.com/105812540/169192836-b2d036a8-47c7-409c-be96-b7b094f4f396.png)
+
+
+
 
 
 
