@@ -80,6 +80,36 @@ SECCION 1-2
 
 ![imagen](https://user-images.githubusercontent.com/105812540/169192836-b2d036a8-47c7-409c-be96-b7b094f4f396.png)
 
+6. Exprese cada uno de los números siguientes como un número decimal
+
+![imagen](https://user-images.githubusercontent.com/105812540/169194182-8cb5127f-2625-4ab0-9022-eda63923b74f.png)
+
+8. Exprese cada número de los siguientes como un número decimal 
+
+![imagen](https://user-images.githubusercontent.com/105812540/169194250-ae1afca4-b9bc-4538-9c9e-32bdadaddfe7.png)
+
+10. Efectúe las siguientes sustracciones
+
+![imagen](https://user-images.githubusercontent.com/105812540/169194504-197c28ea-fe99-4cc1-b845-7e1a2c6ede70.png)
+
+12. Realice las siguientes divisiones
+
+![imagen](https://user-images.githubusercontent.com/105812540/169194598-a10ceae2-3b3d-45b6-ac91-37814ca154f9.png)
+
+SECCION 1-3
+
+14. Exprese cada número en notación de ingeniería
+
+![imagen](https://user-images.githubusercontent.com/105812540/169194713-94093451-66b8-4150-97d2-4a8147fb26b3.png)
+
+16. Exprese cada número en notación de ingeniería
+
+![imagen](https://user-images.githubusercontent.com/105812540/169194752-b7cc73fa-e375-4ac5-94ba-1b778ad42230.png)
+
+18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería
+
+![imagen](https://user-images.githubusercontent.com/105812540/169194809-88a3afc2-8bd0-4773-a163-ddebf5f26e3d.png)
+
 
 
 
