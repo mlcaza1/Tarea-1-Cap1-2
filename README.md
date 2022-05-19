@@ -210,7 +210,7 @@ SECCION 2-4
 
 18. ¿En qué principio se basan los generadores eléctricos?
 
-Se basa en el principio de la inducción electromagnética 
+R=Se basa en el principio de la inducción electromagnética 
 
 ![imagen](https://user-images.githubusercontent.com/105812540/169203520-753c1905-f32f-4aca-8b55-6adcecb5dfde.png)
 
@@ -218,9 +218,48 @@ SECCION 2-5
 
 22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21
 
+![imagen](https://user-images.githubusercontent.com/105812540/169203794-9d4e230c-6e96-4e79-9e00-4913d8ded031.png)
+
+24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas
+
+![imagen](https://user-images.githubusercontent.com/105812540/169204032-718e8a30-2bf9-4e65-b3ba-6980f9853fe4.png)
+
+26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas
+
+![imagen](https://user-images.githubusercontent.com/105812540/169204445-614f3d77-6639-42a0-a1cb-3dfb51ef6991.png)
+
+28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+
+R= La resistencia en cada terminal tiene un valor de 500 Ohms
+
+30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue
+
+![imagen](https://user-images.githubusercontent.com/105812540/169204799-54b5054a-b8a8-43ad-bd0d-73798a33cb36.png)
 
 
+32.¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 
+![imagen](https://user-images.githubusercontent.com/105812540/169204871-27c649af-b587-4906-a4d4-f0fb333cb9c6.png)
+
+R= No porque los interruptores son los encargados abrir o cerrar el paso de corriente eléctrica en un circuito, dependiendo de su posición si el interruptor está abierto nunca habrá paso de corriente 
+
+34.Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador
+
+![imagen](https://user-images.githubusercontent.com/105812540/169204941-7671fb97-bf82-46e6-895f-effa2cbd64ee.png)
+
+R= La conexión se lo puede realizar mediante un interruptor rotatorio
+
+SECCION 2-7
+
+36. Explique cómo mediría la resistencia de R2 en la figura 2-72
+
+![imagen](https://user-images.githubusercontent.com/105812540/169205013-2f3dc60b-4d53-47fb-a2c9-dd3fd63c7e53.png)
+
+R= Para medir la resistencia primero toca sacarla del circuito y junto con el multímetro colocarlo en el medidor de resistencia, con ambos cables colocarlos en cada extremo y aparecerá el valor de la misma 
+
+38. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
+Un multímetro de 4 1/2 dígitos mostrará hasta 19.999 recuentos de resolución
 
 
 
