@@ -110,6 +110,114 @@ SECCION 1-3
 
 ![imagen](https://user-images.githubusercontent.com/105812540/169194809-88a3afc2-8bd0-4773-a163-ddebf5f26e3d.png)
 
+20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico
+
+![imagen](https://user-images.githubusercontent.com/105812540/169197113-9609723e-2582-4a12-a71f-835962e37513.png)
+
+22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico
+
+![imagen](https://user-images.githubusercontent.com/105812540/169197191-53e311b7-a601-4078-b54c-a80667ec2457.png)
+
+24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos
+
+![imagen](https://user-images.githubusercontent.com/105812540/169197335-03746e73-9d51-4350-af0c-8f9a5aac1274.png)
+
+26. Exprese cada cantidad en notación de ingeniería
+
+![imagen](https://user-images.githubusercontent.com/105812540/169200903-dd38b41c-a51a-4e74-a9a4-8c9c79576529.png)
+
+SECCION 1-4 
+
+28. Determine lo siguiente:
+
+![imagen](https://user-images.githubusercontent.com/105812540/169201790-e93d90f7-a8d0-4702-b142-716e30258668.png)
+
+30. Realice las siguientes operaciones
+
+![imagen](https://user-images.githubusercontent.com/105812540/169201904-9dc876d4-faaa-4225-8274-c6c768fac12b.png)
+
+# Ejercicios Capitulo 2
+
+SECCION 2-1
+
+2. Las órbitas de los electrones se llaman
+
+![imagen](https://user-images.githubusercontent.com/105812540/169202296-ed1a85e4-6657-4ee3-bd88-f1faf4a14823.png)
+
+4. Cuando se colocan cerca uno del otro, un material positivamente cargado y uno negativamente cargado se
+
+![imagen](https://user-images.githubusercontent.com/105812540/169202324-f7156ba7-a400-4bf2-9e3e-d7da6a3c5959.png)
+
+6. Diferencia de potencial es otro término para
+
+![imagen](https://user-images.githubusercontent.com/105812540/169202364-97bea9de-61e3-43d8-a781-0c191529bbbf.png)
+
+8. ¿Cuál de los siguientes artefactos no es un tipo de fuente de energía?
+
+![imagen](https://user-images.githubusercontent.com/105812540/169202582-39c51598-c958-4bc3-b1a4-dcbbfeaeec98.png)
+
+10. La corriente eléctrica se define como
+
+![imagen](https://user-images.githubusercontent.com/105812540/169202614-9187ff06-0318-40f3-8c06-d43690b0f46a.png)
+
+
+12. El propósito primordial de un resistor es
+
+![imagen](https://user-images.githubusercontent.com/105812540/169202650-30eb1431-4292-425c-8a3f-d2d9c949ff17.png)
+
+
+14. En un circuito dado, la corriente no debe exceder de 22 A. ¿Qué valor de fusible es mejor?
+
+![imagen](https://user-images.githubusercontent.com/105812540/169202724-3daf64b9-16e2-41e8-8bed-1608b7a1c458.png)
+
+SECCION 2-2
+
+2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
+
+![imagen](https://user-images.githubusercontent.com/105812540/169202769-92e673c6-523b-401c-b84e-a4e1d5e390a5.png)
+
+4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
+
+![imagen](https://user-images.githubusercontent.com/105812540/169202837-68f43fef-a63f-4aa9-bfae-5ade906f62d0.png)
+
+SECCION 2-3
+
+6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
+
+![imagen](https://user-images.githubusercontent.com/105812540/169202987-198054a7-e98c-4d21-a5d6-58a53937eff9.png)
+
+8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
+
+![imagen](https://user-images.githubusercontent.com/105812540/169203069-96921911-f2e3-4697-9729-8d5144ac409a.png)
+
+10. Determine la corriente en cada uno de los siguientes casos
+
+![imagen](https://user-images.githubusercontent.com/105812540/169203120-ccb9d435-1155-44aa-ac83-c242ba84f2b4.png)
+
+12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
+
+![imagen](https://user-images.githubusercontent.com/105812540/169203187-f27bfe29-31b0-4e72-a523-db93b79da9c9.png)
+
+14. 5.74 X 10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+
+![imagen](https://user-images.githubusercontent.com/105812540/169203257-376dda74-6ca1-4d42-b7c1-69db930e6784.png)
+
+16. Encuentre la resistencia correspondiente a las siguientes conductancias
+
+![imagen](https://user-images.githubusercontent.com/105812540/169203328-00aed204-e0e2-4b23-87d3-c1ed5337cab3.png)
+
+SECCION 2-4
+
+18. ¿En qué principio se basan los generadores eléctricos?
+
+Se basa en el principio de la inducción electromagnética 
+
+![imagen](https://user-images.githubusercontent.com/105812540/169203520-753c1905-f32f-4aca-8b55-6adcecb5dfde.png)
+
+SECCION 2-5
+
+22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21
+
 
 
 
