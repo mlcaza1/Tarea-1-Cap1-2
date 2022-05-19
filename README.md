@@ -204,7 +204,8 @@ SECCION 2-3
 
 16. Encuentre la resistencia correspondiente a las siguientes conductancias
 
-![imagen](https://user-images.githubusercontent.com/105812540/169203328-00aed204-e0e2-4b23-87d3-c1ed5337cab3.png)
+![imagen](https://user-images.githubusercontent.com/105812540/169210464-f64cbd43-17f5-4778-9f40-f66ddcab3db0.png)
+
 
 SECCION 2-4
 
