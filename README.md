@@ -22,5 +22,64 @@ NRC: 7309
 
 •	Reconocer y analizar diversos tipos y valores de resistencias
 
+# Marco Teorico 
+
+Capitulo 1-2
+![imagen](https://user-images.githubusercontent.com/105812540/169189273-f379a850-1594-48c1-ae8e-efd29b907bb5.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/169189585-c1a5486c-8b2d-48ba-9650-f774095638ff.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/169189194-48374812-c92e-4e54-baf3-020eb07fe3c0.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/169189314-d22e7490-e2d7-4db6-bbb7-24553f45f39e.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/169189823-ef385686-7515-48c6-9f64-347f98ff4d7c.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/169189341-64b343f7-ae04-4824-859b-211282606ee3.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/169189381-2164fcb0-ef52-4d20-97ba-eb1bd8c151ad.png)
+
+
+# Explicación y resolución de ejercicios
+
+# Ejercicios Capitulo 1 
+
+2. La unidad de corriente es
+
+![imagen](https://user-images.githubusercontent.com/105812540/169190934-8d3f41ad-21da-4742-9d2e-42122eeba4ed.png)
+
+4. La unidad de resistencia es
+
+![imagen](https://user-images.githubusercontent.com/105812540/169191128-45b67945-d3c5-4b87-b1a1-2c9c86d7550f.png)
+
+6. 15,000 W es lo mismo que
+
+![imagen](https://user-images.githubusercontent.com/105812540/169191219-af69dd7c-f9fc-4bbd-9805-999077158ab6.png)
+
+8. La cantidad 56 X 10^3 es lo mismo que
+
+![imagen](https://user-images.githubusercontent.com/105812540/169191296-c5cfce15-3088-4604-b1b2-ee6709476f06.png)
+
+
+
+
+
+# Conclusiones 
+•	Al repasar las transformaciones de unidades son una herramienta poderosa para usar en la carrera de Ingeniería en Electrónica y Automatización.
+
+•	Los ejercicios realizados en estos capítulos revisan la Física General Básica con sus conceptos y teorías.
+
+•	Con los ejercicios realizados se puede determinar que las mediciones y los cálculos cuentan con cierto marguen de error
+
+•	Se pudo conocer los diferentes materiales que se encuentran en un circuito 
+
+•	Con la ayuda tecnológica y programas se puede realizar de forma más sencilla los cálculos.
+
+# Bibliografia 
+
+Floyd, T. (indefinido de indefinido de 2007). Principios de Circuitos Electricos. En T. Floyd, Principios de Circuitos Electricos (pág. 968). Mexico: Pearson. Obtenido de https://akifrases.com/frase/183227
+
+
+
 
 
