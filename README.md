@@ -281,7 +281,7 @@ https://youtu.be/NWcPMDKKt90
 
 # Bibliografia 
 
-Floyd, T. (indefinido de indefinido de 2007). Principios de Circuitos Electricos. En T. Floyd, Principios de Circuitos Electricos (pág. 968). Mexico: Pearson. Obtenido de https://akifrases.com/frase/183227
+Floyd, T. (indefinido de indefinido de 2007). Principios de Circuitos Electricos. En T. Floyd, Principios de Circuitos Electricos (pág. 968). Mexico: Pearson. Obtenido de https://akifrases.com/frase/183227 
 
 
 
